@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.pyc
+__pycache__/
+glove.6B.50d.txt
+ComplainSorter/src/postprocessing/glove.6B.50d.txt
